@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8c7a7063fa2c4a47a528dd49e918988, type: 3}
+  m_Name: CardDataSO_DrawCard
+  m_EditorClassIdentifier: 
+  health: 1
+  dmg: 0
+  cost: 3
+  nameUI: Renforcments
+  descriptionUI: You have been sent more troops to aid in your battle
+  healAmount: 0
+  poisionDmg: 0
+  turnsToPoision: 0
+  _gameObjects:
+  - {fileID: 3072191261625981859, guid: 348eba54a0ad3a04bbffb40b448a936b, type: 3}
+  - {fileID: 8703873151475853507, guid: 0962b57e5e4517e4e8f6986989109b5e, type: 3}
+  - {fileID: 8325460221769845325, guid: 7c31c7ac40e730640a17b786a859d86d, type: 3}
+  - {fileID: 3072191261625981859, guid: 403e7ea4f55631347b1830ae62783301, type: 3}
+  - {fileID: 3072191261625981859, guid: c57e404ce89022d48bf7dc2f628fefa5, type: 3}
+  - {fileID: 3072191261625981859, guid: 17923db213fdd9e43b7f673bc1dafc04, type: 3}
+  - {fileID: 3072191261625981859, guid: f654dbeedc9d64841a2c8428e470b119, type: 3}
+  - {fileID: 3072191261625981859, guid: ac5c4aa7f3ffcc3439aa3c055d1276d4, type: 3}
+  roundStalling: 0
